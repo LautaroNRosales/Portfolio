@@ -60,3 +60,8 @@ footer {
     border-radius: 50px;
     box-shadow: 0 0 20px rgb(12, 240, 152);
 }
+
+.Descripcion {
+    border: 3px dashed rgb(0, 255, 42);
+    border-radius: 10px 0px;
+}
