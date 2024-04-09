@@ -65,3 +65,13 @@ footer {
     border: 3px dashed rgb(0, 255, 42);
     border-radius: 10px 0px;
 }
+
+.Proyectos{
+    border: 3px dashed rgb(68, 0, 255);
+    border-radius: 0px 10px;
+}
+
+.Contacto{
+    border: 4px dashed rgb(255, 0, 212);
+    border-radius: 10px;
+}
