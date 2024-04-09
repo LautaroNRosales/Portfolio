@@ -59,6 +59,7 @@ footer {
     height: 200px;
     border-radius: 50px;
     box-shadow: 0 0 20px rgb(12, 240, 152);
+    margin-left: 1%;
 }
 
 .Descripcion {
@@ -74,4 +75,8 @@ footer {
 .Contacto{
     border: 4px dashed rgb(255, 0, 212);
     border-radius: 10px;
+}
+
+ul {
+    margin-left: 1%;
 }
